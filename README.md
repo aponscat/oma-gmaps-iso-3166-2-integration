@@ -4,3 +4,4 @@ With this small tool you can look for a particular place with google maps and ge
 Only enter the address or point of interest and look at the information generated in the marker.
 
 Thanks!
+ 
